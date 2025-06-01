@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    int a; 
-    printf("enter a number /a");
-    scanf("%d",a);
+    int a = 5; 
+    // printf("enter a number /a");
+    // scanf("%d",a);
     switch(a){
         case 1:
             printf("you entered 1 \n");
