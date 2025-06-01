@@ -1,3 +1,0 @@
-/*
-write own version of strcpy 
-*/
