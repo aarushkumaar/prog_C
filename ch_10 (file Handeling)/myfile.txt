@@ -1,0 +1,5 @@
+I am writing this using fprintf function 
+I am writing this using fputs function 
+A
+this line is added using fputs function 
+B
