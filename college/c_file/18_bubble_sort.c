@@ -1,3 +1,16 @@
+/*
+    BUBBLE SORT
+    called bubble sort because, dheere dheere uper aate hai uper elements
+    runs loop (n-1) times,
+    starts from last,
+    places the largest element at the last
+    METHOD;
+    firsrt two compare kare, bada wala to the right,
+    then next to, bada wala to right
+    so on..
+
+    EG; 7 8 3 1 2
+ */
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n) {

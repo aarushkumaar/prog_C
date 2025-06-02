@@ -1,4 +1,17 @@
-#include <stdio.h>
+/*
+SELECTION SORT
+assume the element at the 0th position as the smallest
+compare it with element at 1st position
+compare with second position
+suppose  element at 2nd is the smallest, so rename
+2nd index wala smallest ho jayga
+compare that with others
+now, swap the smallest with the elemnt at first position
+
+repeat this process with n-1 elements, leave the element at 0th position
+ */
+
+ #include <stdio.h>
 
 // Function to perform selection sort
 void selectionSort(int arr[], int n) {
