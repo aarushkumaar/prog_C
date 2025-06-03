@@ -6,6 +6,6 @@ int main()
     int *ptr1 = &arr[0]; 
     int *ptr2 = &arr[1];  
     int difference = ptr2 - ptr1; 
-    printf("difference between ptr2 and ptr1 is: %td elements \n", difference); 
+    printf("difference between ptr2 and ptr1 is: %d elements \n", difference); 
     return 0;
 }
